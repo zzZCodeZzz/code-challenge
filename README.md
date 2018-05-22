@@ -1,7 +1,7 @@
 #Installation
 
 1. install postgresql
-2. create a postgresql database called home.ht
+2. create a postgresql database called home.ht with the userrole of the logged in user
 3. make shure the datebase is located at localhost:5432
 
 4. download the project from github
