@@ -10,5 +10,5 @@
 
 7. start the Configuration with com.homeht.CodeChallengeApplication as MainClass
 8. the table for the database will be created automaticly
-9. if the table is empty then they will be filled with some test data by DbTestFiller \
+9. if the table is empty then it will be filled with some test data by DbTestFiller \
  (Contract 1 and 2 with some payments)
